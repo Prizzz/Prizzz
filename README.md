@@ -10,6 +10,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prizzz&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prizzz&layout=compact)
 
+### Codewars
+
+[![Profile badge](https://www.codewars.com/users/Prizzz/badges/large)](https://www.codewars.com/users/Prizzz)
+
 #### Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
