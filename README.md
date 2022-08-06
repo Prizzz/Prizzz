@@ -28,6 +28,22 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#### Recent projects
+
+<details>
+<summary>Museum</summary>
+<p><b>Description</b>: landing page for Louvre museum. This project is a part of The Rolling Scopes School learning program.</p>
+<p><b>Stack</b>: Vanilla JS, Sass</p>
+<p><a href="prizzz.github.io/museum/museum/">Link to deploy</a></p><p><a href="https://github.com/Prizzz/Museum">Link to repo</a></p>
+</details>
+
+<details>
+<summary>Momentum</summary>
+<p><b>Description</b>: Momentum is a copy of the Google "Momentum" extension. This project is a part of The Rolling Scopes School learning program.</p>
+<p><b>Stack</b>: Vanilla JS</p>
+<p><a href="prizzz.github.io/momentum/momentum/">Link to deploy</a></p><p><a href="https://github.com/Prizzz/Momentum">Link to repo</a></p>
+</details>
+
 #### Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-arakelyan/)
