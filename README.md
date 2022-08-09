@@ -3,7 +3,7 @@
 ### My name is Robert
 
 - 💻 I love creating beautiful and accessible user interfaces
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React
 - 💬 Ask me about JS / TS
 - ✉️ You can contact me via telegram or email
 
@@ -42,7 +42,7 @@
 <summary>Momentum</summary>
 <p><b>Description</b>: Momentum is a copy of the Google "Momentum" extension. This project is a part of The Rolling Scopes School learning program.</p>
 <p><b>Stack</b>: Vanilla JS</p>
-<p><a href="https://prizzz.github.io/momentum/momentum/">Link to deploy</a></p>
+<p><a href="https://prizzz.github.io/Momentum/momentum/">Link to deploy</a></p>
 <p><a href="https://github.com/Prizzz/Momentum">Link to repo</a></p>
 </details>
 
