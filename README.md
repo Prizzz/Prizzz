@@ -34,14 +34,16 @@
 <summary>Museum</summary>
 <p><b>Description</b>: landing page for Louvre museum. This project is a part of The Rolling Scopes School learning program.</p>
 <p><b>Stack</b>: Vanilla JS, Sass</p>
-<p><a href="prizzz.github.io/museum/museum/">Link to deploy</a></p><p><a href="https://github.com/Prizzz/Museum">Link to repo</a></p>
+<p><a href="prizzz.github.io/Museum/museum/">Link to deploy</a></p>
+<p><a href="https://github.com/Prizzz/Museum">Link to repo</a></p>
 </details>
 
 <details>
 <summary>Momentum</summary>
 <p><b>Description</b>: Momentum is a copy of the Google "Momentum" extension. This project is a part of The Rolling Scopes School learning program.</p>
 <p><b>Stack</b>: Vanilla JS</p>
-<p><a href="prizzz.github.io/momentum/momentum/">Link to deploy</a></p><p><a href="https://github.com/Prizzz/Momentum">Link to repo</a></p>
+<p><a href="prizzz.github.io/momentum/momentum/">Link to deploy</a></p>
+<p><a href="https://github.com/Prizzz/Momentum">Link to repo</a></p>
 </details>
 
 #### Contacts:
