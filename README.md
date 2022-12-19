@@ -35,7 +35,7 @@
 <summary>ShareMe</summary>
 <p><b>Description</b>: Full Stack Social Media Application for sharing images</p>
 <p><b>Stack</b>: React, Sanity, Tailwind CSS</p>
-<p><a href="shareme-prizzz.netlify.app/">Link to deploy</a></p>
+<p><a href="https://shareme-prizzz.netlify.app/">Link to deploy</a></p>
 <p><a href="https://github.com/Prizzz/shareMe-App">Link to repo</a></p>
 </details>
 
