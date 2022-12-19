@@ -32,6 +32,14 @@
 #### Recent projects
 
 <details>
+<summary>ShareMe</summary>
+<p><b>Description</b>: Full Stack Social Media Application for sharing images</p>
+<p><b>Stack</b>: React, Sanity, Tailwind CSS</p>
+<p><a href="shareme-prizzz.netlify.app/">Link to deploy</a></p>
+<p><a href="https://github.com/Prizzz/shareMe-App">Link to repo</a></p>
+</details>
+
+<details>
 <summary>Museum</summary>
 <p><b>Description</b>: landing page for Louvre museum. This project is a part of The Rolling Scopes School learning program.</p>
 <p><b>Stack</b>: Vanilla JS, Sass</p>
