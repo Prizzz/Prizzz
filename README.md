@@ -3,8 +3,8 @@
 ### My name is Robert
 
 - 💻 I love creating beautiful and accessible user interfaces
-- 🌱 I’m currently learning React
-- 💬 Ask me about JS / TS
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about JS / TS / React
 - ✉️ You can contact me via telegram or email
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prizzz&hide=issues,contribs)
