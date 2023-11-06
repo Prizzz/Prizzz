@@ -44,19 +44,19 @@
 </details>
 
 <details>
-<summary>Museum</summary>
-<p><b>Description</b>: landing page for Louvre museum. This project is a part of The Rolling Scopes School learning program.</p>
-<p><b>Stack</b>: Vanilla JS, Sass</p>
-<p><a href="https://prizzz.github.io/Museum/museum/">Link to deploy</a></p>
-<p><a href="https://github.com/Prizzz/Museum">Link to repo</a></p>
+<summary>Trello Clone</summary>
+<p><b>Description</b>: Trello is a web-based, kanban-style, list-making application.</p>
+<p><b>Stack</b>: Next.js, TypeScript, Zustand, TailwindCSS</p>
+<p><a href="trello-clone-prizzz.vercel.app/">Link to deploy</a></p>
+<p><a href="https://github.com/Prizzz/trello-clone">Link to repo</a></p>
 </details>
 
 <details>
-<summary>Momentum</summary>
-<p><b>Description</b>: Momentum is a copy of the Google "Momentum" extension. This project is a part of The Rolling Scopes School learning program.</p>
-<p><b>Stack</b>: Vanilla JS</p>
-<p><a href="https://prizzz.github.io/Momentum/momentum/">Link to deploy</a></p>
-<p><a href="https://github.com/Prizzz/Momentum">Link to repo</a></p>
+<summary>Dalle Image Generator</summary>
+<p><b>Description</b>: Dalle Image Generator is a full-stack MERN image generation application.</p>
+<p><b>Stack</b>: React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB</p>
+<p><a href="dalle-generator-coral.vercel.app">Link to deploy</a></p>
+<p><a href="https://github.com/Prizzz/dalle-generator/blob/master/README.md">Link to repo</a></p>
 </details>
 
 #### Contacts:
